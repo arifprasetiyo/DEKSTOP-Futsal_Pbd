@@ -6,3 +6,4 @@ Ga usah ngenteni mari baru di commit. Aku pengen ndelok progresmu kabeh ;)
 
 !!!!!!!!!!! DILARANG KERAS MODIFY README SELAIN AKU :V !!!!!!!!!
 Regrat : Sandi :*
+IYAIYAIYAIYAAAAA
