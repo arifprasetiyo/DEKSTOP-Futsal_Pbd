@@ -21,7 +21,7 @@ Public Class Dashboard
         b = cmd.ExecuteScalar().ToString()
         BunifuCustomLabel6.Text = b
 
-        'member
+        'memberr
         Dim c As String
         sql = "SELECT convert(varchar,count(*)) FROM pelanggan"
         cmd.CommandText = sql
