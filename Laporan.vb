@@ -1,3 +1,3 @@
-﻿Public Class Laporan
+Public Class Laporan                                                                                                    
 
 End Class
