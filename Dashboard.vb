@@ -7,7 +7,7 @@ Public Class Dashboard
     
     Private Sub Dashboard_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         koneksi()
-        'booking
+        'booking                                                                    
         Dim a As String
         sql = "SELECT convert(varchar,count(*)) FROM sewa"
         cmd.CommandText = sql
@@ -29,6 +29,6 @@ Public Class Dashboard
         cmd.Connection = conn
         c = cmd.ExecuteScalar().ToString()
         BunifuCustomLabel7.Text = c
-        tutupkoneksi()
+        tutupkoneksi()                                                                     
     End Sub
 End Class
